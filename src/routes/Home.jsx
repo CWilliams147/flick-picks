@@ -1,5 +1,4 @@
 import { createBrowserRouter, RouterProvider, Link } from "react-router-dom";
-import Nav from "../components/Nav";
 
 const Home = () => {
   return (
