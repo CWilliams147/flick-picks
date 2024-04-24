@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Outlet } from "react-router-dom";
-import Routes from "../routes/routes";
+import Routes from "../routes/Routes";
 
 const Layout = () => {
   return (
